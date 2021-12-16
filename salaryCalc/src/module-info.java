@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author corey
+ *
+ */
+module salaryCalc {
+}
